@@ -1,0 +1,3350 @@
+fileFormatVersion: 2
+guid: 10019f4354ad6420fa74fc983f73c60b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yoshi coin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 154
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216f0276b023142f1b6c98eef819b744
+      internalID: -1219402205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 244
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b3ada88a0444494818f03e36e79ed4
+      internalID: -1877932352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 246
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de662c5a79444edfbbe80500430ddf6
+      internalID: 1243962657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8ad39d19c7844f2bfb3e99f82fc493
+      internalID: 833678383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 246
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c6ec8eb315442ae87777e9c8aa6f80
+      internalID: -1452275511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_13
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 244
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21326f76ffc464684ac7bc49220a7083
+      internalID: 950432787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 246
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdedf3a10a534777973bb6f7cb9c1b5
+      internalID: 637228039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 37
+        width: 156
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f60a414195148eb847d0e3627fe443
+      internalID: 1612189879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59f1bb07fa44125898a62947ef1995
+      internalID: -1568866952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78344f789e294a3998f3d9614464421
+      internalID: -1687935682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 244
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142300e3b7434a47ba0436ec43fe839
+      internalID: 659476907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5376894aaf473492a0baf2d3ff1c0
+      internalID: 1090506169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b6487742324707aca9ee842844d4e
+      internalID: -324955145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214c255d0be9459581d53dc92b06d4d
+      internalID: -393735307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6d854b9006a41828f202b1f203a2c9
+      internalID: 1779711588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc323246044b4cf088bbee3232b2207
+      internalID: -1414331652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_36
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 244
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c7abe110024063a8aba4b10e47ca0
+      internalID: 478819459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_37
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e79366c2ee054035b768411d8dddc2a
+      internalID: 831820041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_38
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077bdb145b85c4f1eab27a31f1816905
+      internalID: 1417728060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_41
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a4e656dd984b29ab7d65f1468ff28
+      internalID: 1457790276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_44
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 37
+        width: 156
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad34b783b473455780f84dc565c46d3
+      internalID: 1326558767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_46
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df880d3b36024c7e95970995a400817
+      internalID: -1351525760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d83f15c8f8742feaa23d693e124213
+      internalID: 1051935528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_49
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38623e4099f434c9a8859595c7246432
+      internalID: 704074304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_50
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 244
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c5ebee589f94559af01dfad9001346
+      internalID: -24293042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78307ca3bb8946fe88e16d4b8a1fccb
+      internalID: 27226322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_53
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 260
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f5f908549f451995eb14f1e99364b
+      internalID: 447801936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_54
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 248
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f2d7747e76f47de9ecbe26316dc523
+      internalID: 463359479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_57
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 249
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ca7534deb6f477d973d87b0cea50e7
+      internalID: -2141715945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_60
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 244
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25faa83fcc3a41f3817e8b413a24e43
+      internalID: 993491379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_61
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 37
+        width: 159
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69c9a31036041ac9e8e04c1d26328a
+      internalID: -1005429021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_62
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 247
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82317811e0f824b01b0f57f712dad626
+      internalID: 911554386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_64
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 244
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa50acae5d7a4a80aafc31577c95358
+      internalID: -2016185842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 251
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed1b4b522afd421daa3daac186f7952
+      internalID: -1316169507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_67
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 228
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7085e6c98d32b4d1a969f9e64c51859c
+      internalID: -2057974691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_69
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 228
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317f5e176c86488bbfa26cdc3c3ccf6
+      internalID: -754515505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_70
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 228
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29728867985bd46e7be723e03eef363f
+      internalID: 567185427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 230
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33f3da2a31424a538d085990fed3981
+      internalID: 2097549930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_72
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a82d4228526144ad830e95e2a355abd
+      internalID: -303636896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_74
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d1c34aa1c340ac919bdb63b2dab5b
+      internalID: 2138737675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_76
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e0059fae0c5455f986371a6567d0fd
+      internalID: -940970850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_77
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 219
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244db1a08e5204b6cb801edccc76dda7
+      internalID: -1199830286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_81
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 212
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa1999c9b0dc4a258b22ab00c6f6112
+      internalID: 796158954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_82
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 212
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecfec326f24f45649a1be1c381c6300
+      internalID: 772761043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_83
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7a4d2b5e8742cda492a14cf1215cd
+      internalID: -1939149427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3eb90b03c264cc19e374eb6fb6992d
+      internalID: -1300386227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_85
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c950f3cb7ad745168326bfb834c58d4
+      internalID: -1987476027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_86
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9eb7c749a348a5b079d500a9e6d6e
+      internalID: 288538252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_87
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 198
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8b064a013e4f90a3a8c881873716b
+      internalID: 1785022706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 187
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3612e29216b5040d99d151172f7780f1
+      internalID: 448684729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_91
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 187
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52b415deef543028842e34adffeb1f
+      internalID: -1365612950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_92
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 180
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec76992daf2ee42e7a28e744e7a4a18f
+      internalID: -1852943743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 180
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e624beae0dc417db0ba647d9cfa1f9
+      internalID: -352414219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_94
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 180
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43400f1b62244e249871c904be7afa5
+      internalID: 1173200825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_95
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 180
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4737576b48cc742fabe470b7312b4583
+      internalID: 634598785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_96
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 180
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfa43c76ad1a42e49d164d82013b24e
+      internalID: 1432309870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc878ee1ca84650a0431dce9cc9afd
+      internalID: 658727636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_98
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c2edd296c124d11b7411cabcdf48f0
+      internalID: 725167732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_99
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7111263339d2a479c83976f9d689c56a
+      internalID: -1348958679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_100
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17be2530d47b4db983994e94e89efa1
+      internalID: 1899655315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_101
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 166
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78c8d097879945ad9944bbab7d81073
+      internalID: -1526661561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_102
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 155
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91123774dc13e4f1b8187c4c0f4c284b
+      internalID: 1336115191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_103
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 155
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e378cf4d3b54230b0c1c00526666de
+      internalID: 1717537169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_104
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 155
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9a645fd7d24be1b6e1ba7f89be8d9
+      internalID: -991629264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_105
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 155
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73665eda13d2c45d5b6725dcee1e1ef5
+      internalID: 198120373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_106
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf53f0aa0a704031831cc35b38b40a7
+      internalID: -1644670362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b55ed7001374a50ad75d104bddf4ec
+      internalID: 1344016961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_108
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488638bf401d4913ac51c06b2682033
+      internalID: -202552919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_109
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1283dce63eba64aa5a70666f5a8aeb88
+      internalID: -1995958382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_110
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 148
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496a37d53a17453db9a886cf222cd79
+      internalID: -1759198154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_111
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32f195dcb2544fcb1143d11484f0b0
+      internalID: 1628942412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_112
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef72d53fc324b87b758710561203cf
+      internalID: -1062913044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91424bbf767344b2ebccafbf03eabf42
+      internalID: -493454716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_114
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e3bd45ddb84c8582093350835eb91
+      internalID: -1092311019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_115
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 134
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf4ad205bc84565b1359225808c1f5
+      internalID: 420245385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08350345e8294c53b2256d426e08c3a
+      internalID: -1444547877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_117
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c296d85276fe344a7a15daa52100224f
+      internalID: 1579855690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_118
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29237516264844f6f8ae6681d05286a9
+      internalID: -1222137546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_119
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046087ac5a8e742f18f181db8823fad6
+      internalID: 583643560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_120
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 116
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9837d11529148ceb455da8a7bacbc7
+      internalID: -1096492010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_121
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 116
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df6ddde11be4244901802ceccb1ced
+      internalID: 1710904534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_122
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 116
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124826977890949bcbde44c29bb8cde8
+      internalID: 1835914559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_123
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 116
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153babe86e9f040ababe62cef258a3c1
+      internalID: -511025621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_124
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 116
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc498b89df304c91bad3f1cb4fdfdb8
+      internalID: 1228466134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0987d48cf75840bd80d7504ba885ab2
+      internalID: -777430771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_126
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059cce5d2d269414f917df95bcbfbbeb
+      internalID: 526790346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_127
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c08d18bbf34b678f77c18c8034749
+      internalID: 1633524941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_128
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953c960e7c9d4793980653d803da5da
+      internalID: -1780014735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_129
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 102
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351bc40a5a4bf4ae9b169b9e063a1337
+      internalID: 360111831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac9fe14d5a1a465192728c890d52b98
+      internalID: -1833713851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_131
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34563a6ed2caf422eb743503868202c5
+      internalID: 766763172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_132
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f60924ad2924bb6bca3dcfe037568b
+      internalID: 1119465085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_133
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c543e6cd00f1e4153b8961c4d43bf7fa
+      internalID: -274541298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_134
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e855be10e2a5a43ca80d24ffc5b779c1
+      internalID: -639824042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_135
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088fea0065e84672a4cb66985bcf40e
+      internalID: 1184442941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_136
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331e49b2488d40bba4e438346148a43
+      internalID: -664268562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_137
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec539ad34bf044f2970779ccebd5cb1
+      internalID: -176594878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_138
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8235473f4947348d9b5d384feb2f9
+      internalID: 1156735352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_139
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 84
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3368212af4764a00b23f4533829e9a7
+      internalID: 172892405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_140
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c34274cad84de38ab8ca550eaedaf
+      internalID: 632843398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_141
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e969bc1a61d704acd85e1a917fa4b2eb
+      internalID: -655878706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_142
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19d19a6fe35b4732bfdb6cbe57e8e4b
+      internalID: -100084424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_143
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a221b7f7006d4bd09d38490146ef6e3
+      internalID: -198342575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_144
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99f88c97bbb461f8e36bcbe0ef696c
+      internalID: -1768494347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_145
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 70
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a62793f5b53341ac906810f8c982d81
+      internalID: -1606590294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_146
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b443fd52289042c2a2668004bb6eaba
+      internalID: 82241558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_147
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bea28e04d24c699d979c2924d1fff
+      internalID: 46955542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_148
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e91a99960ab4399b60f86961da7f94
+      internalID: 1078452370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_149
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da6eff4d63554effa6936c4e12d20ee
+      internalID: 845502681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_150
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb8703c60984c398f96a40644d1dc8
+      internalID: 1821768760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_151
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7236161e784f455fb447d334d648d17
+      internalID: 605467808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_152
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b68daaa6c84a58b4eb840f0283fe5
+      internalID: -467416869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_153
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 59
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba7e6a63c3a4b8fadff40a04d24004
+      internalID: -332433604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_154
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9f56739ab874434a38f8487f0d4600
+      internalID: -257342688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_155
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa43cb61ee5534d8bb83d295c9495356
+      internalID: 1367781927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_156
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73458bdc67cf4330a1031740c43eeb9
+      internalID: 2011969693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_157
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52078034572648eca03829a6dd88c81
+      internalID: -726848910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_158
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c00946899c0423d9534d7197881131
+      internalID: -1461027232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_159
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 52
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487dda261ed74d898d52388db2c3be0
+      internalID: -649186555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_160
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b618bda4ba246a5b160e43def030b6
+      internalID: 388263644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_161
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8e45c0b038b422dbdaca0690a7eabf
+      internalID: -1352943339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_162
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a415d3c899bb2425a8b5c3ac48f1a44d
+      internalID: 1432737429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_163
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a778f9d13eb44f684c5679f25cb19e
+      internalID: -1122982749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_164
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089911b8604e34e26a98b367a11972a8
+      internalID: -1379765934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_165
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b38cb0ebccd4dabac920006c484aaf
+      internalID: 1717567284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_166
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085aaeb9c4ab64eee8535484d24ec3f5
+      internalID: 1503699335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_167
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88365b2e280405cba938cd97c9e3fe
+      internalID: 2135277643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_168
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fc60d1df32a4036bf742128df9740d
+      internalID: -54198892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_169
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ade89b25cf4215bca2ba9f2f029c6
+      internalID: -1510688038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_170
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523473171be8e42a3afba9270a7871f4
+      internalID: 1213910455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_171
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b0d452662a45ffb00700cf44eb959
+      internalID: -1642900831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_172
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c602c8d2d612c48c8b27502707eb648b
+      internalID: 1748167505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_173
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad3c1a74f31349a08edd787939e7bcf
+      internalID: -1370222806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_174
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d1583d58c443fb93162c4efb4fa03
+      internalID: 1213729787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_175
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c483bf626c4b0b981af73c2b72810
+      internalID: -468981834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_176
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d31311e4ca4bde9e18b5e5c8c269a
+      internalID: -746094263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_177
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14150c6e011974e7aafada3e18369674
+      internalID: -1266716170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_178
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f93ca589498446abbc0854e642c8d0
+      internalID: -1476175409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_179
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b595dbaea126d476080827f01b768b08
+      internalID: 973883516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_180
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b196ba3d6b43ad8c5d7124d07f047
+      internalID: 82382341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yoshi coin_181
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 36
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e88f1787336489380ea9b13db6e273
+      internalID: -2037621988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Yoshi coin_0: -1219402205
+      Yoshi coin_1: 1833430950
+      Yoshi coin_10: 411966489
+      Yoshi coin_100: 1899655315
+      Yoshi coin_101: -1526661561
+      Yoshi coin_102: 1336115191
+      Yoshi coin_103: 1717537169
+      Yoshi coin_104: -991629264
+      Yoshi coin_105: 198120373
+      Yoshi coin_106: -1644670362
+      Yoshi coin_107: 1344016961
+      Yoshi coin_108: -202552919
+      Yoshi coin_109: -1995958382
+      Yoshi coin_11: -1452275511
+      Yoshi coin_110: -1759198154
+      Yoshi coin_111: 1628942412
+      Yoshi coin_112: -1062913044
+      Yoshi coin_113: -493454716
+      Yoshi coin_114: -1092311019
+      Yoshi coin_115: 420245385
+      Yoshi coin_116: -1444547877
+      Yoshi coin_117: 1579855690
+      Yoshi coin_118: -1222137546
+      Yoshi coin_119: 583643560
+      Yoshi coin_12: -72854427
+      Yoshi coin_120: -1096492010
+      Yoshi coin_121: 1710904534
+      Yoshi coin_122: 1835914559
+      Yoshi coin_123: -511025621
+      Yoshi coin_124: 1228466134
+      Yoshi coin_125: -777430771
+      Yoshi coin_126: 526790346
+      Yoshi coin_127: 1633524941
+      Yoshi coin_128: -1780014735
+      Yoshi coin_129: 360111831
+      Yoshi coin_13: 950432787
+      Yoshi coin_130: -1833713851
+      Yoshi coin_131: 766763172
+      Yoshi coin_132: 1119465085
+      Yoshi coin_133: -274541298
+      Yoshi coin_134: -639824042
+      Yoshi coin_135: 1184442941
+      Yoshi coin_136: -664268562
+      Yoshi coin_137: -176594878
+      Yoshi coin_138: 1156735352
+      Yoshi coin_139: 172892405
+      Yoshi coin_14: 1386821404
+      Yoshi coin_140: 632843398
+      Yoshi coin_141: -655878706
+      Yoshi coin_142: -100084424
+      Yoshi coin_143: -198342575
+      Yoshi coin_144: -1768494347
+      Yoshi coin_145: -1606590294
+      Yoshi coin_146: 82241558
+      Yoshi coin_147: 46955542
+      Yoshi coin_148: 1078452370
+      Yoshi coin_149: 845502681
+      Yoshi coin_15: 637228039
+      Yoshi coin_150: 1821768760
+      Yoshi coin_151: 605467808
+      Yoshi coin_152: -467416869
+      Yoshi coin_153: -332433604
+      Yoshi coin_154: -257342688
+      Yoshi coin_155: 1367781927
+      Yoshi coin_156: 2011969693
+      Yoshi coin_157: -726848910
+      Yoshi coin_158: -1461027232
+      Yoshi coin_159: -649186555
+      Yoshi coin_16: 540690577
+      Yoshi coin_160: 388263644
+      Yoshi coin_161: -1352943339
+      Yoshi coin_162: 1432737429
+      Yoshi coin_163: -1122982749
+      Yoshi coin_164: -1379765934
+      Yoshi coin_165: 1717567284
+      Yoshi coin_166: 1503699335
+      Yoshi coin_167: 2135277643
+      Yoshi coin_168: -54198892
+      Yoshi coin_169: -1510688038
+      Yoshi coin_17: 2131512229
+      Yoshi coin_170: 1213910455
+      Yoshi coin_171: -1642900831
+      Yoshi coin_172: 1748167505
+      Yoshi coin_173: -1370222806
+      Yoshi coin_174: 1213729787
+      Yoshi coin_175: -468981834
+      Yoshi coin_176: -746094263
+      Yoshi coin_177: -1266716170
+      Yoshi coin_178: -1476175409
+      Yoshi coin_179: 973883516
+      Yoshi coin_18: 1043848146
+      Yoshi coin_180: 82382341
+      Yoshi coin_181: -2037621988
+      Yoshi coin_182: -1670636582
+      Yoshi coin_183: -793724434
+      Yoshi coin_184: -689214345
+      Yoshi coin_185: 622918782
+      Yoshi coin_186: -80830771
+      Yoshi coin_187: 455885833
+      Yoshi coin_188: 1506185168
+      Yoshi coin_189: -1734171698
+      Yoshi coin_19: 1236658305
+      Yoshi coin_190: 743803880
+      Yoshi coin_191: 247031173
+      Yoshi coin_192: -1615291283
+      Yoshi coin_193: -1268111321
+      Yoshi coin_194: 501521868
+      Yoshi coin_195: 1177171607
+      Yoshi coin_196: 126912599
+      Yoshi coin_197: 1798121952
+      Yoshi coin_198: 361115019
+      Yoshi coin_199: -967376502
+      Yoshi coin_2: -661597372
+      Yoshi coin_20: 88102430
+      Yoshi coin_200: 1753722221
+      Yoshi coin_201: 1045061347
+      Yoshi coin_202: -1935402610
+      Yoshi coin_203: 36218619
+      Yoshi coin_204: 989510485
+      Yoshi coin_205: 1133745165
+      Yoshi coin_206: 767598212
+      Yoshi coin_207: 2077523321
+      Yoshi coin_208: 1434825506
+      Yoshi coin_209: 1508379645
+      Yoshi coin_21: 1612189879
+      Yoshi coin_210: -176880573
+      Yoshi coin_211: 618515362
+      Yoshi coin_212: -981952333
+      Yoshi coin_213: -940461134
+      Yoshi coin_214: -411435481
+      Yoshi coin_215: -266377616
+      Yoshi coin_216: 283130819
+      Yoshi coin_217: -1599528141
+      Yoshi coin_218: 1807498374
+      Yoshi coin_219: 1156380861
+      Yoshi coin_22: 60054637
+      Yoshi coin_220: 1164798406
+      Yoshi coin_221: 88840129
+      Yoshi coin_222: 1153145722
+      Yoshi coin_223: 2083471128
+      Yoshi coin_224: 1021092621
+      Yoshi coin_225: -1585491571
+      Yoshi coin_226: -237361775
+      Yoshi coin_227: 1858228252
+      Yoshi coin_228: 420054679
+      Yoshi coin_229: 915549117
+      Yoshi coin_23: -1058849165
+      Yoshi coin_230: -814588410
+      Yoshi coin_231: -1920624149
+      Yoshi coin_232: -2061114165
+      Yoshi coin_233: 119501830
+      Yoshi coin_234: 522387163
+      Yoshi coin_235: -2054347408
+      Yoshi coin_236: 1787553424
+      Yoshi coin_237: 207104129
+      Yoshi coin_238: -387468040
+      Yoshi coin_239: -394002314
+      Yoshi coin_24: -1568866952
+      Yoshi coin_240: -621896164
+      Yoshi coin_241: -1128239984
+      Yoshi coin_242: -212437970
+      Yoshi coin_243: 288671681
+      Yoshi coin_244: -494595216
+      Yoshi coin_245: 1807252650
+      Yoshi coin_246: -1803659880
+      Yoshi coin_247: -1926202724
+      Yoshi coin_248: -1462956910
+      Yoshi coin_25: 201609055
+      Yoshi coin_26: -1687935682
+      Yoshi coin_27: 659476907
+      Yoshi coin_28: 1090506169
+      Yoshi coin_29: -1536335433
+      Yoshi coin_3: -1877932352
+      Yoshi coin_30: -324955145
+      Yoshi coin_31: -393735307
+      Yoshi coin_32: 1198613439
+      Yoshi coin_33: 1779711588
+      Yoshi coin_34: -1414331652
+      Yoshi coin_35: -663749261
+      Yoshi coin_36: 478819459
+      Yoshi coin_37: 831820041
+      Yoshi coin_38: 1417728060
+      Yoshi coin_39: -854705882
+      Yoshi coin_4: -1429219652
+      Yoshi coin_40: 1341334191
+      Yoshi coin_41: 1457790276
+      Yoshi coin_42: 1666482391
+      Yoshi coin_43: -422969960
+      Yoshi coin_44: 1326558767
+      Yoshi coin_45: 1500177569
+      Yoshi coin_46: -1351525760
+      Yoshi coin_47: 1051935528
+      Yoshi coin_48: 495613523
+      Yoshi coin_49: 704074304
+      Yoshi coin_5: 1243962657
+      Yoshi coin_50: -24293042
+      Yoshi coin_51: 27226322
+      Yoshi coin_52: 40013682
+      Yoshi coin_53: 447801936
+      Yoshi coin_54: 463359479
+      Yoshi coin_55: 699775855
+      Yoshi coin_56: 1707930580
+      Yoshi coin_57: -2141715945
+      Yoshi coin_58: -26666103
+      Yoshi coin_59: -1277169880
+      Yoshi coin_6: 1950527726
+      Yoshi coin_60: 993491379
+      Yoshi coin_61: -1005429021
+      Yoshi coin_62: 911554386
+      Yoshi coin_63: 1272763376
+      Yoshi coin_64: -2016185842
+      Yoshi coin_65: -1618981410
+      Yoshi coin_66: -1316169507
+      Yoshi coin_67: -2057974691
+      Yoshi coin_68: 761628969
+      Yoshi coin_69: -754515505
+      Yoshi coin_7: -2016085442
+      Yoshi coin_70: 567185427
+      Yoshi coin_71: 2097549930
+      Yoshi coin_72: -303636896
+      Yoshi coin_73: 966778504
+      Yoshi coin_74: 2138737675
+      Yoshi coin_75: -2083830940
+      Yoshi coin_76: -940970850
+      Yoshi coin_77: -1199830286
+      Yoshi coin_78: 1644129924
+      Yoshi coin_79: 1139014671
+      Yoshi coin_8: 833678383
+      Yoshi coin_80: -1207910882
+      Yoshi coin_81: 796158954
+      Yoshi coin_82: 772761043
+      Yoshi coin_83: -1939149427
+      Yoshi coin_84: -1300386227
+      Yoshi coin_85: -1987476027
+      Yoshi coin_86: 288538252
+      Yoshi coin_87: 1785022706
+      Yoshi coin_88: 448684729
+      Yoshi coin_89: 2014179311
+      Yoshi coin_9: -920032139
+      Yoshi coin_90: 1419824394
+      Yoshi coin_91: -1365612950
+      Yoshi coin_92: -1852943743
+      Yoshi coin_93: -352414219
+      Yoshi coin_94: 1173200825
+      Yoshi coin_95: 634598785
+      Yoshi coin_96: 1432309870
+      Yoshi coin_97: 658727636
+      Yoshi coin_98: 725167732
+      Yoshi coin_99: -1348958679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

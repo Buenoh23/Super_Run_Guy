@@ -1,0 +1,7158 @@
+fileFormatVersion: 2
+guid: 764610dcb8910468eac5346f2c887b20
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1556
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18344e12db1456f97d0b67f7552d28
+      internalID: -1447564661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1556
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc22b99f9284767bbdbca2866f62e6
+      internalID: -1563584578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1557
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82c2ff85bada40949ad72cc5b792a14
+      internalID: -1264728019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1557
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e706d74508c42fc8aa1a668d9d7ea4
+      internalID: 177773680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1556
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e0c545a78034537ba84e2c9a428217
+      internalID: 1883879052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1556
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176401a4c41154c64ad2c09baf825774
+      internalID: -835267649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1556
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96cbd1d900d64ec5b7e7be6a4f04893
+      internalID: -2026997979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1552
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7189c7239fd145cbbd5953544b0234f
+      internalID: -758041765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1552
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055c7497e2b6341eb8ddddc1d52ac1b2
+      internalID: 631894292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1552
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de60eefd913a14f789e97d5042098379
+      internalID: -756161268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1552
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1503eb67d673f41d08b18e16927a4ce0
+      internalID: 1682845401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1516
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfe0ab460e1444a98dcef023be6e66a
+      internalID: 1671782671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1516
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa32e63894eef40278dcae931c0f6c6f
+      internalID: -1065700576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1517
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da997ba22bd3a4d1694393d0ec059a28
+      internalID: -1970182181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1517
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d56fdab6bbb841ac91504ec406e2428
+      internalID: 2105592678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1516
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493eee90c1f38433e8777f1e42ded7d7
+      internalID: 481610138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1516
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4a589b2c924c19b4b826efc57032d
+      internalID: 1550862794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1516
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b42fedfa8ab4596a3ca335bf138a90
+      internalID: 1540251543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1517
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ae273f9e42487da01a874e093370e
+      internalID: -51916690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1517
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c84e057f094a7792a211095ca2893
+      internalID: 17941965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1517
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6572d17fe8c0a412cae8ac79e8814830
+      internalID: -771132030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1476
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd50e4540a142418d8632d0b163d32b6
+      internalID: -928364729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1476
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8454d57f70fa41cd8fcb1ffc682e1a7
+      internalID: 525397217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1477
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106e190077474b3c81fa9e3b21a5409
+      internalID: -1758035475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1477
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f20a35769e54767af21edab2e76e2a
+      internalID: -837416974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1476
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d1d38cbe46413282652bb5f39444e
+      internalID: 1446783653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1476
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac697df1f49974f1091619791c599c91
+      internalID: -2099406812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1476
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca62bdbf67e42c7a77cff098a14901
+      internalID: -1543178043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1469
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d426631178419797690511d83bb40
+      internalID: 1814761467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1470
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e76ac32ecf8e49758e96dd8af762c7e
+      internalID: 1995160397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1478
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642cbb8de85a24e5c8b8f7de7cfd680b
+      internalID: 315108059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1477
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01a5551ba6d4ae4a6bb6db11b9f00e
+      internalID: 1381493940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1436
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2519c8f8fd484f37bddca742a95ff5f
+      internalID: 1257242693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1436
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7918343e04794fdcba59ff8ae01e579
+      internalID: -757836121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1437
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c68b5490b7b64adb8e806e9192f4141
+      internalID: -687044805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1437
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86137dcb97aa54581bbb02cd9a59680c
+      internalID: 1399991413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1436
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78f29900a3647e78c883b45441cec3
+      internalID: 91047688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1436
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf1e4565e9b24281b37928c8804a81e
+      internalID: 1647567927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1436
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707b0aa9e9614e2dbeb085355f4d816
+      internalID: -1257179254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1437
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44addc1d07e7245889c9d38537e064b0
+      internalID: 304949199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1438
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fef7ac745e7346b5b794880d1cb20bc
+      internalID: 1714261814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1438
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fc81eb1f4894279920b20317f501f7
+      internalID: -1326141762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e923e5b8a81544bfbb48935db07d3e6
+      internalID: -213292011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c38f66e070409d8b12c7e04b63d56
+      internalID: 1986487488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1438
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef2a65d26774645bf32acf4af28015
+      internalID: 1853280926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e91bae73afb54d8c8f8cfc3c2f2fd11
+      internalID: -163012728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1393
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab86a2be08d7c4c1a8c2ff5efc95ca6e
+      internalID: 948282383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1393
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104873c1dbf54f5e860e1ba51367ac2
+      internalID: 1394166666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97065d767f2b54a6f93bdd3964546d75
+      internalID: -1111468297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740200dbe987443a383ae70e87aa9b69
+      internalID: 1724245410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a45b78c5f446d6b128df8ee1e0f5d
+      internalID: -1564608590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1392
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72987333cf16f4fd691eab0938b812b8
+      internalID: -1640155542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1417
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981fc272c03e742648308a7e50b2eb36
+      internalID: -823383512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1394
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8ce36599a0043e3bfce51ab48278a3
+      internalID: 463006779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1394
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e22567dd384402b7a2ec37f013f80
+      internalID: -375571738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1397
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701ec5d6358c4990a39707215fb0645
+      internalID: -1643526738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1396
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4105e2eba254ce9be4290aa6899955
+      internalID: -1541555706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1394
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d043ed110f80940c2b39ad31544945f5
+      internalID: 95295502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fea55c628024f11a3510811fd244e9
+      internalID: 2086311774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1396
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a96404d429e427e9fd55ffd0e902d1
+      internalID: -923191858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1388
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7716521bc99bd4fda9b5f231c4643bf0
+      internalID: 1026410929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6988331f0d9a449fc8262f7bcde076e9
+      internalID: -1547518226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1353
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27479326b293d4d7b87026c8f9b9fb92
+      internalID: 145572785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1353
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9a508fb838491490650741ccf30ba
+      internalID: -1977814981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9742511b77c5c4b69bfcae5fe4bda5ad
+      internalID: 684093241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfe592c9f20479388cfd8788e90544
+      internalID: -1658870981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90eb656348f7a4dd2b8401d5d103ea26
+      internalID: -1753090850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1352
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8caee367b14765b95f08ee3c8c7e2
+      internalID: 1144321110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1377
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e036b41b794fac9d9fbb5e38671da
+      internalID: -944100715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1354
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df02abb8d0f44d469d3ee1704006b27
+      internalID: 1215229682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1354
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb319d7c8394ad791326cc737af00b
+      internalID: -2109442195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1357
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdeeccb26bf244eeb0b3a17003950dd
+      internalID: -726817405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1356
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f5198f8053448eb15bcb4f0f8aece
+      internalID: 579117790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1354
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892c82aed2074591baee9f56d1f066f
+      internalID: -303654678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3b9871ccc9244208de10bbf946dee9
+      internalID: 1271805960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1356
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fecd7e2eb6940e283270629fff2081
+      internalID: -41033532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1348
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cf068e16e714238a2237184b944ee1
+      internalID: -997040027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1312
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21916b23dd57d4709ab1f24dfc82c116
+      internalID: -647618635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1313
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85984e60305fa4566a500c08383cc2f2
+      internalID: -482496954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1313
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7fa372be5c42dcb080ab74df5dafb
+      internalID: -1101607043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1312
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8195265158d4a75b9e10fcbcea7596
+      internalID: 1289056728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1312
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b774db019544918a23288e9f5d2ff1
+      internalID: -1497832477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1312
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e330a41414c41a7a014795f8aa3c7b
+      internalID: 409023440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1312
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018542e20e1c04053b4f2629ecd7c917
+      internalID: -1355687767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1337
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0bc559ddad6429ab02579fbeb5841b
+      internalID: 1933575473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1314
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2aa7c1123a94c97a74e5298b3d3e8c
+      internalID: -1425578998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1314
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b22112025c4e7cb3969e78adc3989
+      internalID: -754615763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1317
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41379d3db45df4e57b3fc7ce545c57c8
+      internalID: -1734565919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1316
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421cfa9fa44724790be12ed3c4f04e82
+      internalID: 966235762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1314
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b5c68dcf064b2498caa5cb31e8b18
+      internalID: -579093972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1327
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87aedec19d14a7dbcd461f871090c4
+      internalID: 1133348826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1316
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7e140e1d784cc6909fd1a043c2572
+      internalID: -706278119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1308
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d71280e375742d59eae975239a3d35
+      internalID: -47697774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1248
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9f3b0edb664f62973f8561abe7616
+      internalID: -1430351349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1245
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4451bc8b203034a76ac801f7a5205e10
+      internalID: 2000187682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1245
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3453b388664434e2f8d2de3b1b3b5abb
+      internalID: 1759444267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1245
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d6910010eaa4083b74ff0346700e8b
+      internalID: 1591266879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1245
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae07177813764bf2abd01de3a1a38d4
+      internalID: -1646620116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1246
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4a804205ff34d53b87d289c52189c3
+      internalID: -523029022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1247
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52a6a938b474547ae89ca6c41f52c0
+      internalID: -874675627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1247
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f20c71ce714471b9e8c602c5211c65
+      internalID: 1007773002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1248
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b9872d0d7e4711ae4c9ecd91fd008
+      internalID: -10651009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1248
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b9e389c3e6c4fb6b8ed6750ac5fb02
+      internalID: 540460243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1247
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30d8f13fecb4624a2ed2054f511ab2
+      internalID: 454279708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1176
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebfb1138f0ba42cd91e3b7c5a123b3d
+      internalID: -673195192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1175
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf895f4de84844289d1ae78fa1798f0
+      internalID: -433143954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1175
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a622cb575a4a9193b30532c6ca5e8
+      internalID: 1164639040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1175
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9f72faf785d4c2a92e9d557ed18199
+      internalID: -1020349093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1175
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418f1f13faa0442389727b46dcc5b593
+      internalID: 789544966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1175
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f332b73bdf44d7fb4e1f34830b81c1
+      internalID: 1781111992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1175
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884a403bcd97b48a19d8c332061e0990
+      internalID: 14829905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1176
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa1fa3e22aeb4a539b46aaf046056d2
+      internalID: -1079493321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1177
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6649ddee7234b3bac9c44bbdcdbca5
+      internalID: 492120389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1178
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e67f280783a41dfb9d5e1244924467
+      internalID: 381328350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1178
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005335e4691444a66972d4ce5dde9f1a
+      internalID: -1539059011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1107
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a1395899b794d5ca23c512d3926831
+      internalID: 2012957313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1106
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289383ac79186474c9ba5c1007432ce0
+      internalID: 1953198273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1105
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc796a9a8f3e44a7b6e963eb04666ed
+      internalID: -1783256210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1105
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9fbb0145d44039b671259a0d1088f
+      internalID: 1287214247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1038
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b955f39d864c61bcceee10ac046d5
+      internalID: -792887221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1035
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8080f67a1f884bfba7611db690d8bef
+      internalID: 223490999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1035
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23443547c58294a61b67d81b3c996a19
+      internalID: -487582752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1035
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8175f5cbd33b54b7fbc513598b3048db
+      internalID: -1878184226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1035
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc57bf950ef47b2a01cf07fc5dfbdf
+      internalID: -840538685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1036
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771bc1576d602421dad9c714aadcc6eb
+      internalID: 2075269678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1037
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8ddb0486a04f7a966ac056fde0b83
+      internalID: 748147963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1037
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a67546541d5473492ed3ec04aee14a
+      internalID: 1862443300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1038
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618da9c7ce6a443483c4f61c5b1523c
+      internalID: -1765693237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1038
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332437bf562534cdc810a8db55d4a196
+      internalID: -633024549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1037
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b307efa5fe734591b4b480fb20bdb4a
+      internalID: -490548736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 966
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69bf173f873c46d88a639386ad8416a
+      internalID: -1610877233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 965
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbe342d56a0d4ffda60d4a055edeeb4
+      internalID: -1344819983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 965
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfd363bc171844abba42be452dc94ec
+      internalID: 1728376078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 965
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c71a157f35466cb26f1e819f6cab3
+      internalID: -1844713258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 965
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0182ff820f29d4194ae56382d19b1726
+      internalID: -1559552471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 965
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44cca61e732245a8a0516982d716ab3
+      internalID: -966980602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 965
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b425ff8acb6421cb26630bf8dcf91c
+      internalID: 1889115937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 966
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c812386980c14cc9ac0085206d87d12
+      internalID: 10604377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 967
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7edda0854d943828d9a0c524a28f39
+      internalID: -180093492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 968
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6644e341f1b344d88973f1de2498bb4
+      internalID: 426626105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 968
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd6325d471b1497db554aea0fe4548e
+      internalID: -1029991755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 897
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3699a50b8624dd487d13d6ad37f1f2
+      internalID: 1376272067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 896
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3e7d648216471eb2edfeebe3b1931
+      internalID: 681474299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 895
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5d57f92f38d492096a39cc49fbfeb4
+      internalID: -1698082207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 895
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134491cbee69144ec8b5a6f336fd39a2
+      internalID: -1086257828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 828
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a11f44138b64f468d6a6bdcfb7c1fd
+      internalID: -1810733116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 825
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b91a1b2ed344263afb505ec79e67ac
+      internalID: -1562872710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 825
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944f9892a79e5447484e287f1e0a2769
+      internalID: 1644405818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 825
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6658e154a14700aec9d449a781dc6
+      internalID: -405438513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 825
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ffb6d4fb52d46d4a17baaacc7ef3bb
+      internalID: -416696738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 826
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47769ad23a8b45719d1dd50e34a811c
+      internalID: 446355347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 827
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d15d8c4d428417c806e68dca660974
+      internalID: -318793576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 827
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02a2c067e935482c8b2f3672342ba70
+      internalID: -1481157504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 828
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb941d62a9544fbea957dddda808a03
+      internalID: 704677476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 828
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc9c5047f9a4444ad8329ada64ac68
+      internalID: 891898635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 827
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cee0617203a46b19f219ccb97791b1
+      internalID: -1114941463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 756
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269f6764e1d1249edad1d4d3d7e43530
+      internalID: 931561752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 755
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2533adc8707d7492a92a2bd496d17b50
+      internalID: 961113566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 755
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c38a1658f164064b70a731979e3197
+      internalID: 1338128704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 755
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407503c06e2d4dedad53c370be99814
+      internalID: 1902561437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 755
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454c024d72df41dda4998a2e6f9ffc0
+      internalID: 418445077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 755
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca2a55ea13cf4ce8bf432e74bc2ac21
+      internalID: -1200414804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 755
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc4fb7aa9fa43488ee5d0a41cb3d65
+      internalID: 459437541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 756
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bcc54d287ac407cad67a58da3e3b0e
+      internalID: 913602162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 757
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8542f0082bd4762b07a07aadc3bc12
+      internalID: 1752106631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 758
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031929d029104b97a5a58f20fb3e67a
+      internalID: 252917261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 758
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0305138674954c1b98513a38725d275
+      internalID: -801251760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 687
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06861ef642334a6e851d9a999bde154
+      internalID: -2056675979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 686
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c520d68e8f248dfa0c1fbf14c65ddd
+      internalID: 1470346662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 685
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f586a382724c7cb22b8c990f5ce0b
+      internalID: -2090667561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 685
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c449b12ecdb047339b7e578fc839fa2
+      internalID: -174549074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 618
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0213b43ee175b422f8254eca8157e1ce
+      internalID: 1970008461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 615
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75990305c31824c37bc19bd85603f0fb
+      internalID: 827063369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 615
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a96ebfa7ef4e3fa3579ded8f6dadd
+      internalID: -1419315069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 615
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b25cf4527c8344dfb1603e57a96fd61
+      internalID: -858820317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 615
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71c2a977f9347c98ffa1f34e2894e3
+      internalID: -649923434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 616
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba20f85518bc435db3236d7ebfca48e
+      internalID: -525840817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 617
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf914fe83e694754b5a0ef1e0c387ba
+      internalID: -1110033614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 617
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946c63faa74914d35814b3e18627f663
+      internalID: 349233958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 618
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2d8335bf204dc0b4f6df62cfc0cb7
+      internalID: 3451353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 618
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745bd4e3db41648ccabe79bdf0b0fe66
+      internalID: -712220459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 617
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a01d53d68d4f52a582827786d88b6
+      internalID: 1166344547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 546
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd8b6ba4f35b41f3ab1594030ea0ddd
+      internalID: -1925911085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 545
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bd04934a004d6b87ab5ab2ed6d0be
+      internalID: -503573660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 545
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0301bc064151341f3ada76a17fdd2703
+      internalID: 496152380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 545
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383da59a8845e4be4a6b3e3cae8b64a2
+      internalID: 1945070449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 545
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a7ea8a24d304019b9d0359ca541ceb
+      internalID: 337194651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 545
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea2917a1eda49279403b6d45bf507c
+      internalID: 1394738137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 545
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21579c0979824c42be0d766297d4a90
+      internalID: -417800741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 546
+        width: 21
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c522c1a59422481cb5f17d75e719af4
+      internalID: 1877877659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 547
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109616056c124b4eacc8e8ccd815d67
+      internalID: -218503177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 548
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bef8f8d91c14b7d8e7ed939c91ab23
+      internalID: -419482883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 548
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b556f4699344b6b1f4596ea599faf
+      internalID: 867871499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 477
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433637367f389451abbcee67a13935df
+      internalID: 1625277491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 476
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534e751d455734847880f9575db876c6
+      internalID: -1909517765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 475
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9016d1d45b040ecb4646b5e9fe689b
+      internalID: 975127537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 475
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794dd7533387945499316236f8c9251c
+      internalID: -1992272606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160c5b95483047b39b442eb6f99ccab
+      internalID: -617220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 440
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ace3bfcb4ca4d99a1af5a4d0e37cbe
+      internalID: 15403592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 439
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab19791d303848409e25fadf201c418
+      internalID: -1390481461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 438
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017d4d603e6464f7eb841eb82680a4c3
+      internalID: 219133559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 437
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4adab8d4aca545ab9fcd287c60bb5d8
+      internalID: 1841036710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 438
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee13c1d05fdd431aa882badaebf7476
+      internalID: -1930632443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 438
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f65110361bf47c2a6040b0d5fc4e9a
+      internalID: 18833516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 438
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7595a23ab1240388a8a97113882040
+      internalID: 537661375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 437
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dbadf9471f1445d975be03fef47ceb
+      internalID: -1663405860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 439
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d6328ae35ff435bbcf254ed44a1e32
+      internalID: -413377338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 437
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a6dfc5791a42ef8d9652e1b957956
+      internalID: 258444919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 437
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad93c77dc97a48ceaff816a6a269766
+      internalID: -1735358393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 398
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba15fff90df949a3b2e5670dabe54f1
+      internalID: -1964521559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 398
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6556bfd1f6d40a1b7bace78b7dc835
+      internalID: -1498568692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 397
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a981cb70fc40ec84a51ba7cb1d632
+      internalID: -286139200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 397
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de0bf522dd5645e7be3b753007c1b63
+      internalID: 185054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 397
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795bad430e0f84127a36085061202bac
+      internalID: 771449182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 401
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429724d1649994e94911c432d0c4436d
+      internalID: 983801835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 400
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a65aeabe044425ba9d050b9e579995
+      internalID: 1858776709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 399
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f840b79a135f742ad88a6f9246b5fa9a
+      internalID: 442802431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 398
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdeb91f8bd32940af88b925d765444f6
+      internalID: 684042584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 398
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f587f0351e604e3789a8ad5948c05ee
+      internalID: -941032133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 397
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e4e22aa2b0549d284293d60fdef50e
+      internalID: 682244827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 364
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa8f2720e054a8580848ca0c8351c1
+      internalID: 194687852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac502059dbec643de976ea97a563bd8d
+      internalID: 1631723987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 363
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e479cbc406b4a798191aeb274e8401
+      internalID: -2097766909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb95de69baed42658e6a6e947f9d82e
+      internalID: -117851588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 364
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9db3fb3e46546cb89e64e14685ccfc
+      internalID: -2043290331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 364
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c9f557d3c6f4dd9b8e286da5d1ecef
+      internalID: 935615199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 363
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0ac4c15203d44639fef49d58c6084e
+      internalID: -583260779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_227
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 363
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a246b4f62d54819aa71b68bcd53368
+      internalID: 1337955269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_228
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 362
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4ac2b9adc83481d8103bce39fc6a58
+      internalID: 174850214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_229
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 361
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8d017c448294c9f9096ed0851805fa
+      internalID: 619314873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_230
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 359
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a918c5161b9a4068adfcb57b8258cd4
+      internalID: -1565786987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_231
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 360
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1f4a3a48cb44f9a3dfdd0e777788a
+      internalID: -709284954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_232
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 321
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778730a98840c438aa27ef919d07ccb7
+      internalID: -1508903184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_233
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 322
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076e6d74c2f94275947ca024d5906f5
+      internalID: -1902319819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_234
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 323
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e98ffce9c83540dab2c07f9a3d39a1f
+      internalID: -1230399911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_235
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 323
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c3cf8942cb401ea9d17e482e16097
+      internalID: 1076807834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_236
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 322
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa731e723630d416aa90a7bff0f71018
+      internalID: -81540044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_237
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 321
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3065922e371545b684ce84ce8753689
+      internalID: -743381092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_238
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 322
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45605bb028c44718bd5a8c4db14eb9
+      internalID: 262489474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_239
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 321
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad350e6be0e14dbb80612499ee034dd
+      internalID: 441753207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7c87788c7c944d78dd244a88f5370c
+      internalID: -1088482686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_241
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 284
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b71e75052c848fd8883c135f8c37b8
+      internalID: 287106364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_242
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 283
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92539677a2d9422a80749a6eba38ffc
+      internalID: 1163516545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_243
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d57ce5bc28042e687b89aaa2707d52
+      internalID: 1590463110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_244
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 284
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99111a1ba2c8b4e7a945296426bf6eaf
+      internalID: -75706489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_245
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 284
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015ae24924cd405e8c1469cdb6d89c0
+      internalID: -47565064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_246
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 283
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9a9c9d6fbd4c47a0781caf2179c61
+      internalID: -2009362265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_247
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 283
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c65eb870df34dbfb8f17a9bdf2922a
+      internalID: -1499672395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_248
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11588eb4fa64276a3657ade4309e85
+      internalID: -1857300874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_249
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 281
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fb5e15cc429405a8877167ae80a1cf
+      internalID: -1936547817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_250
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5370c541f17384de78e963caf5a2cafa
+      internalID: 435762498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_251
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 280
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5ac510d6f5340249cf7a0a31d370b7
+      internalID: 1530448571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_252
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 241
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132bbf745380f415393e20811174852e
+      internalID: -1860863250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_253
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 242
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7daadc5ce0fe4d35941260395941485
+      internalID: 451436914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_254
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 243
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6b1d41d0434ded87a1793a90c73c4
+      internalID: 245730109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_255
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 243
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ddac6fbe39408ebe1a9ebff89ce60
+      internalID: -588185350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_256
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 242
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc541b63b228e4fafb4fcb5bcfe27638
+      internalID: -744207016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_257
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 241
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae7c5af6da534666ad730f9dccd5d17
+      internalID: -1917150200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_258
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 242
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8472fd46df37a48d59ac4bffd5d17a71
+      internalID: -30237143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_259
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 241
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9964d60cce40c4ee2b245bc2ef1cd6c8
+      internalID: -984563707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_260
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 201
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d821c7a57bf77466c8ad7fe550e539ee
+      internalID: -2040904569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_261
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 202
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc94ecee4a942c183a6c1276a88a29
+      internalID: 476623059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_262
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 201
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a590883415174398aaa11e4b60ce4d1
+      internalID: 721360386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_263
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 200
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5008122a0d72452da5ead73131a8b52
+      internalID: -22048884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_264
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 200
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f4fa999167149969636356db1fdfdd
+      internalID: 1234261967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_265
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 202
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecab609ee6c643c8bfe528b33283390
+      internalID: 1052478248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_266
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 199
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e590671a834ce9b2289532b1f697c
+      internalID: -1908664227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_267
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 197
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c66420cc4e40422793990b58386027d
+      internalID: 1091053521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_268
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 200
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1dfa65d876e4fdcb0153af8f2b5772
+      internalID: 703971600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_269
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 197
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f4273a7a8d4ce2a7ed737242e5661
+      internalID: -1370886164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_270
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 198
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201f5a74117bd48a9805cb3a7081db74
+      internalID: -1957612599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_271
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 199
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab692ac93514e2a8f2c5309ccf528d
+      internalID: -1043778211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_272
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 196
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d194aea86d2e46009ce79f94cc110be
+      internalID: 1107187448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_273
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 196
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8752d3a565404e0d9bfac09de708562
+      internalID: -476265213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_274
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a9c82be119b429493b22638e73f7b7
+      internalID: -601174201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_275
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c66cbe452c42fb9fcb5b08a139692
+      internalID: -633678056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_276
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d7c0ecb794405c90f9e00f0b0f450
+      internalID: -1101945318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_277
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48dd3bf2e5e44b28a80bc0aa1f6f53b
+      internalID: -1094677082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_278
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 162
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79798bb4055c477f8ef6cea7a2742d3
+      internalID: -866693357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_279
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 161
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce7a5450fdd8461385f698dca6308c6
+      internalID: 369589212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_280
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 167
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496ee1ce1e1444c4bdd4ad94c347342
+      internalID: -1044663471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_281
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 164
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad639c52000843b68346a80bed48756
+      internalID: -2124379958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_282
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 162
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d1b9469e60470aa13a1d6a407ea8c
+      internalID: -1175192202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_283
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 163
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc24c8df2ab9f480e8b0b469045a96b7
+      internalID: 105587975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_284
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 162
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c079ea27056a48bd8a33d0ee1fa2dd0
+      internalID: 1075671738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_285
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 160
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d12118190e54fc586ec3259adf0a97
+      internalID: -1504095055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_286
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 160
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25796d68f514fad946a5e02ed936ea
+      internalID: -1353367744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_287
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 160
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42498a2456fca4edaacb32a36f0972db
+      internalID: 2117574557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_288
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 120
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018df358eddfb43d3bd95eae0d3d5aea
+      internalID: -1586201327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_289
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 123
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728567870bf7746c6ab3121a9979a334
+      internalID: -940786868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_290
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bcee5e9db0c44f4b3eb478531e7d5b
+      internalID: 474205586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_291
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 121
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f0dab346d804d80a9cd846947310a6
+      internalID: 397013935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_292
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 121
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367100f4f921848558ceeff795881ac2
+      internalID: 1216462912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_293
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 82
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527f2e936fad44d1c8fa657017ccdefa
+      internalID: -354313846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_294
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9cf88b4e904004850753e0790988a
+      internalID: 1130612256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_295
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b6034ee42d446559bf3bd0f523df3a
+      internalID: 1289375753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_296
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 75
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db502d40683242b0a0a41888c3c2ddf
+      internalID: 1165620396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_297
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5716b72b70274203bebbd9331152183
+      internalID: -2034910287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_298
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 71
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05330ea68786844258126a75956ac315
+      internalID: -1889129296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_299
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5cc94816d1e4faeb98dd526958e307
+      internalID: 1431547925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_300
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 83
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a8211075704b1d86b1d937c480c99
+      internalID: -2106636474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_301
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 83
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0c4d1ec9ce4bd3bddde2734cc09cc
+      internalID: 319030387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_302
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 77
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0d828b2d4cd43cf907662be12d5f5c
+      internalID: 1826398397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_303
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07aa5a1e8da77465ab9e483c32921ce2
+      internalID: -1344675991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_304
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 42
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5de548ef023449382da962743d1aa2
+      internalID: 23090215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_305
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 42
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43edd89a758a04401b3d4b914f232fd4
+      internalID: 1069037018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_306
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 42
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3302628580ee04332a9898d6d6f336a8
+      internalID: 929663248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_307
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 51
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68696e0d92f4a4318b06092ed541bd60
+      internalID: 1972117370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_308
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 40
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac54516614c294e1bb892c9f809f5d86
+      internalID: 2063688804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_309
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 40
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e905c8f059c428db4cf3b0d3e01c51
+      internalID: 494311266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_310
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4ba2a60c24a41a48f786f4a6f82d2a
+      internalID: 1108424148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_311
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b831d7b04efde494cb3501a4032c2efb
+      internalID: 482369415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_312
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9365c3f894a4a8887c9e095fa8773f
+      internalID: 1447494466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_313
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab916cbb3a2774f83ac27fe507ae381d
+      internalID: 994109398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_314
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b43abb6b734850b75745bb33b8d83
+      internalID: 271391002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_315
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9807cd88bb4e8b89e6e0c24cffb00
+      internalID: -1795839942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_316
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c6c64c110764ceebee065a62bdbcfa
+      internalID: 1215767682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_317
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb393a692d340b4a50c0f761894544
+      internalID: -1361095415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_shyguys_sheet_318
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b39341c9e7f4e8fb6bff4f93e5851f
+      internalID: -1446815081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smw2_shyguys_sheet_0: -1447564661
+      smw2_shyguys_sheet_1: -1563584578
+      smw2_shyguys_sheet_10: 1682845401
+      smw2_shyguys_sheet_100: 1007773002
+      smw2_shyguys_sheet_101: -10651009
+      smw2_shyguys_sheet_102: 540460243
+      smw2_shyguys_sheet_103: 454279708
+      smw2_shyguys_sheet_104: -673195192
+      smw2_shyguys_sheet_105: -433143954
+      smw2_shyguys_sheet_106: 1164639040
+      smw2_shyguys_sheet_107: -1020349093
+      smw2_shyguys_sheet_108: 789544966
+      smw2_shyguys_sheet_109: 1781111992
+      smw2_shyguys_sheet_11: 1671782671
+      smw2_shyguys_sheet_110: 14829905
+      smw2_shyguys_sheet_111: -1079493321
+      smw2_shyguys_sheet_112: 492120389
+      smw2_shyguys_sheet_113: 381328350
+      smw2_shyguys_sheet_114: -1539059011
+      smw2_shyguys_sheet_115: 2012957313
+      smw2_shyguys_sheet_116: 1953198273
+      smw2_shyguys_sheet_117: -1783256210
+      smw2_shyguys_sheet_118: 1287214247
+      smw2_shyguys_sheet_119: -792887221
+      smw2_shyguys_sheet_12: -1065700576
+      smw2_shyguys_sheet_120: 223490999
+      smw2_shyguys_sheet_121: -487582752
+      smw2_shyguys_sheet_122: -1878184226
+      smw2_shyguys_sheet_123: -840538685
+      smw2_shyguys_sheet_124: 2075269678
+      smw2_shyguys_sheet_125: 748147963
+      smw2_shyguys_sheet_126: 1862443300
+      smw2_shyguys_sheet_127: -1765693237
+      smw2_shyguys_sheet_128: -633024549
+      smw2_shyguys_sheet_129: -490548736
+      smw2_shyguys_sheet_13: -1970182181
+      smw2_shyguys_sheet_130: -1610877233
+      smw2_shyguys_sheet_131: -1344819983
+      smw2_shyguys_sheet_132: 1728376078
+      smw2_shyguys_sheet_133: -1844713258
+      smw2_shyguys_sheet_134: -1559552471
+      smw2_shyguys_sheet_135: -966980602
+      smw2_shyguys_sheet_136: 1889115937
+      smw2_shyguys_sheet_137: 10604377
+      smw2_shyguys_sheet_138: -180093492
+      smw2_shyguys_sheet_139: 426626105
+      smw2_shyguys_sheet_14: 2105592678
+      smw2_shyguys_sheet_140: -1029991755
+      smw2_shyguys_sheet_141: 1376272067
+      smw2_shyguys_sheet_142: 681474299
+      smw2_shyguys_sheet_143: -1698082207
+      smw2_shyguys_sheet_144: -1086257828
+      smw2_shyguys_sheet_145: -1810733116
+      smw2_shyguys_sheet_146: -1562872710
+      smw2_shyguys_sheet_147: 1644405818
+      smw2_shyguys_sheet_148: -405438513
+      smw2_shyguys_sheet_149: -416696738
+      smw2_shyguys_sheet_15: 481610138
+      smw2_shyguys_sheet_150: 446355347
+      smw2_shyguys_sheet_151: -318793576
+      smw2_shyguys_sheet_152: -1481157504
+      smw2_shyguys_sheet_153: 704677476
+      smw2_shyguys_sheet_154: 891898635
+      smw2_shyguys_sheet_155: -1114941463
+      smw2_shyguys_sheet_156: 931561752
+      smw2_shyguys_sheet_157: 961113566
+      smw2_shyguys_sheet_158: 1338128704
+      smw2_shyguys_sheet_159: 1902561437
+      smw2_shyguys_sheet_16: 1550862794
+      smw2_shyguys_sheet_160: 418445077
+      smw2_shyguys_sheet_161: -1200414804
+      smw2_shyguys_sheet_162: 459437541
+      smw2_shyguys_sheet_163: 913602162
+      smw2_shyguys_sheet_164: 1752106631
+      smw2_shyguys_sheet_165: 252917261
+      smw2_shyguys_sheet_166: -801251760
+      smw2_shyguys_sheet_167: -2056675979
+      smw2_shyguys_sheet_168: 1470346662
+      smw2_shyguys_sheet_169: -2090667561
+      smw2_shyguys_sheet_17: 1540251543
+      smw2_shyguys_sheet_170: -174549074
+      smw2_shyguys_sheet_171: 1970008461
+      smw2_shyguys_sheet_172: 827063369
+      smw2_shyguys_sheet_173: -1419315069
+      smw2_shyguys_sheet_174: -858820317
+      smw2_shyguys_sheet_175: -649923434
+      smw2_shyguys_sheet_176: -525840817
+      smw2_shyguys_sheet_177: -1110033614
+      smw2_shyguys_sheet_178: 349233958
+      smw2_shyguys_sheet_179: 3451353
+      smw2_shyguys_sheet_18: -51916690
+      smw2_shyguys_sheet_180: -712220459
+      smw2_shyguys_sheet_181: 1166344547
+      smw2_shyguys_sheet_182: -1925911085
+      smw2_shyguys_sheet_183: -503573660
+      smw2_shyguys_sheet_184: 496152380
+      smw2_shyguys_sheet_185: 1945070449
+      smw2_shyguys_sheet_186: 337194651
+      smw2_shyguys_sheet_187: 1394738137
+      smw2_shyguys_sheet_188: -417800741
+      smw2_shyguys_sheet_189: 1877877659
+      smw2_shyguys_sheet_19: 17941965
+      smw2_shyguys_sheet_190: -218503177
+      smw2_shyguys_sheet_191: -419482883
+      smw2_shyguys_sheet_192: 867871499
+      smw2_shyguys_sheet_193: 1625277491
+      smw2_shyguys_sheet_194: -1909517765
+      smw2_shyguys_sheet_195: 975127537
+      smw2_shyguys_sheet_196: -1992272606
+      smw2_shyguys_sheet_197: -617220391
+      smw2_shyguys_sheet_198: 15403592
+      smw2_shyguys_sheet_199: -1390481461
+      smw2_shyguys_sheet_2: -1264728019
+      smw2_shyguys_sheet_20: -771132030
+      smw2_shyguys_sheet_200: 219133559
+      smw2_shyguys_sheet_201: 1841036710
+      smw2_shyguys_sheet_202: -1930632443
+      smw2_shyguys_sheet_203: 18833516
+      smw2_shyguys_sheet_204: 537661375
+      smw2_shyguys_sheet_205: -1663405860
+      smw2_shyguys_sheet_206: -413377338
+      smw2_shyguys_sheet_207: 258444919
+      smw2_shyguys_sheet_208: -1735358393
+      smw2_shyguys_sheet_209: -1964521559
+      smw2_shyguys_sheet_21: -928364729
+      smw2_shyguys_sheet_210: -1498568692
+      smw2_shyguys_sheet_211: -286139200
+      smw2_shyguys_sheet_212: 185054741
+      smw2_shyguys_sheet_213: 771449182
+      smw2_shyguys_sheet_214: 983801835
+      smw2_shyguys_sheet_215: 1858776709
+      smw2_shyguys_sheet_216: 442802431
+      smw2_shyguys_sheet_217: 684042584
+      smw2_shyguys_sheet_218: -941032133
+      smw2_shyguys_sheet_219: 682244827
+      smw2_shyguys_sheet_22: 525397217
+      smw2_shyguys_sheet_220: 194687852
+      smw2_shyguys_sheet_221: 1631723987
+      smw2_shyguys_sheet_222: -2097766909
+      smw2_shyguys_sheet_223: -117851588
+      smw2_shyguys_sheet_224: -2043290331
+      smw2_shyguys_sheet_225: 935615199
+      smw2_shyguys_sheet_226: -583260779
+      smw2_shyguys_sheet_227: 1337955269
+      smw2_shyguys_sheet_228: 174850214
+      smw2_shyguys_sheet_229: 619314873
+      smw2_shyguys_sheet_23: -1758035475
+      smw2_shyguys_sheet_230: -1565786987
+      smw2_shyguys_sheet_231: -709284954
+      smw2_shyguys_sheet_232: -1508903184
+      smw2_shyguys_sheet_233: -1902319819
+      smw2_shyguys_sheet_234: -1230399911
+      smw2_shyguys_sheet_235: 1076807834
+      smw2_shyguys_sheet_236: -81540044
+      smw2_shyguys_sheet_237: -743381092
+      smw2_shyguys_sheet_238: 262489474
+      smw2_shyguys_sheet_239: 441753207
+      smw2_shyguys_sheet_24: -837416974
+      smw2_shyguys_sheet_240: -1088482686
+      smw2_shyguys_sheet_241: 287106364
+      smw2_shyguys_sheet_242: 1163516545
+      smw2_shyguys_sheet_243: 1590463110
+      smw2_shyguys_sheet_244: -75706489
+      smw2_shyguys_sheet_245: -47565064
+      smw2_shyguys_sheet_246: -2009362265
+      smw2_shyguys_sheet_247: -1499672395
+      smw2_shyguys_sheet_248: -1857300874
+      smw2_shyguys_sheet_249: -1936547817
+      smw2_shyguys_sheet_25: 1446783653
+      smw2_shyguys_sheet_250: 435762498
+      smw2_shyguys_sheet_251: 1530448571
+      smw2_shyguys_sheet_252: -1860863250
+      smw2_shyguys_sheet_253: 451436914
+      smw2_shyguys_sheet_254: 245730109
+      smw2_shyguys_sheet_255: -588185350
+      smw2_shyguys_sheet_256: -744207016
+      smw2_shyguys_sheet_257: -1917150200
+      smw2_shyguys_sheet_258: -30237143
+      smw2_shyguys_sheet_259: -984563707
+      smw2_shyguys_sheet_26: -2099406812
+      smw2_shyguys_sheet_260: -2040904569
+      smw2_shyguys_sheet_261: 476623059
+      smw2_shyguys_sheet_262: 721360386
+      smw2_shyguys_sheet_263: -22048884
+      smw2_shyguys_sheet_264: 1234261967
+      smw2_shyguys_sheet_265: 1052478248
+      smw2_shyguys_sheet_266: -1908664227
+      smw2_shyguys_sheet_267: 1091053521
+      smw2_shyguys_sheet_268: 703971600
+      smw2_shyguys_sheet_269: -1370886164
+      smw2_shyguys_sheet_27: -1543178043
+      smw2_shyguys_sheet_270: -1957612599
+      smw2_shyguys_sheet_271: -1043778211
+      smw2_shyguys_sheet_272: 1107187448
+      smw2_shyguys_sheet_273: -476265213
+      smw2_shyguys_sheet_274: -601174201
+      smw2_shyguys_sheet_275: -633678056
+      smw2_shyguys_sheet_276: -1101945318
+      smw2_shyguys_sheet_277: -1094677082
+      smw2_shyguys_sheet_278: -866693357
+      smw2_shyguys_sheet_279: 369589212
+      smw2_shyguys_sheet_28: 1814761467
+      smw2_shyguys_sheet_280: -1044663471
+      smw2_shyguys_sheet_281: -2124379958
+      smw2_shyguys_sheet_282: -1175192202
+      smw2_shyguys_sheet_283: 105587975
+      smw2_shyguys_sheet_284: 1075671738
+      smw2_shyguys_sheet_285: -1504095055
+      smw2_shyguys_sheet_286: -1353367744
+      smw2_shyguys_sheet_287: 2117574557
+      smw2_shyguys_sheet_288: -1586201327
+      smw2_shyguys_sheet_289: -940786868
+      smw2_shyguys_sheet_29: 1995160397
+      smw2_shyguys_sheet_290: 474205586
+      smw2_shyguys_sheet_291: 397013935
+      smw2_shyguys_sheet_292: 1216462912
+      smw2_shyguys_sheet_293: -354313846
+      smw2_shyguys_sheet_294: 1130612256
+      smw2_shyguys_sheet_295: 1289375753
+      smw2_shyguys_sheet_296: 1165620396
+      smw2_shyguys_sheet_297: -2034910287
+      smw2_shyguys_sheet_298: -1889129296
+      smw2_shyguys_sheet_299: 1431547925
+      smw2_shyguys_sheet_3: 177773680
+      smw2_shyguys_sheet_30: 315108059
+      smw2_shyguys_sheet_300: -2106636474
+      smw2_shyguys_sheet_301: 319030387
+      smw2_shyguys_sheet_302: 1826398397
+      smw2_shyguys_sheet_303: -1344675991
+      smw2_shyguys_sheet_304: 23090215
+      smw2_shyguys_sheet_305: 1069037018
+      smw2_shyguys_sheet_306: 929663248
+      smw2_shyguys_sheet_307: 1972117370
+      smw2_shyguys_sheet_308: 2063688804
+      smw2_shyguys_sheet_309: 494311266
+      smw2_shyguys_sheet_31: 1381493940
+      smw2_shyguys_sheet_310: 1108424148
+      smw2_shyguys_sheet_311: 482369415
+      smw2_shyguys_sheet_312: 1447494466
+      smw2_shyguys_sheet_313: 994109398
+      smw2_shyguys_sheet_314: 271391002
+      smw2_shyguys_sheet_315: -1795839942
+      smw2_shyguys_sheet_316: 1215767682
+      smw2_shyguys_sheet_317: -1361095415
+      smw2_shyguys_sheet_318: -1446815081
+      smw2_shyguys_sheet_32: 1257242693
+      smw2_shyguys_sheet_33: -757836121
+      smw2_shyguys_sheet_34: -687044805
+      smw2_shyguys_sheet_35: 1399991413
+      smw2_shyguys_sheet_36: 91047688
+      smw2_shyguys_sheet_37: 1647567927
+      smw2_shyguys_sheet_38: -1257179254
+      smw2_shyguys_sheet_39: 304949199
+      smw2_shyguys_sheet_4: 1883879052
+      smw2_shyguys_sheet_40: 1714261814
+      smw2_shyguys_sheet_41: -1326141762
+      smw2_shyguys_sheet_42: -213292011
+      smw2_shyguys_sheet_43: 1986487488
+      smw2_shyguys_sheet_44: 1853280926
+      smw2_shyguys_sheet_45: -163012728
+      smw2_shyguys_sheet_46: 948282383
+      smw2_shyguys_sheet_47: 1394166666
+      smw2_shyguys_sheet_48: -1111468297
+      smw2_shyguys_sheet_49: 1724245410
+      smw2_shyguys_sheet_5: -835267649
+      smw2_shyguys_sheet_50: -1564608590
+      smw2_shyguys_sheet_51: -1640155542
+      smw2_shyguys_sheet_52: -823383512
+      smw2_shyguys_sheet_53: 463006779
+      smw2_shyguys_sheet_54: -375571738
+      smw2_shyguys_sheet_55: -1643526738
+      smw2_shyguys_sheet_56: -1541555706
+      smw2_shyguys_sheet_57: 95295502
+      smw2_shyguys_sheet_58: 2086311774
+      smw2_shyguys_sheet_59: -923191858
+      smw2_shyguys_sheet_6: -2026997979
+      smw2_shyguys_sheet_60: 1026410929
+      smw2_shyguys_sheet_61: -1547518226
+      smw2_shyguys_sheet_62: 145572785
+      smw2_shyguys_sheet_63: -1977814981
+      smw2_shyguys_sheet_64: 684093241
+      smw2_shyguys_sheet_65: -1658870981
+      smw2_shyguys_sheet_66: -1753090850
+      smw2_shyguys_sheet_67: 1144321110
+      smw2_shyguys_sheet_68: -944100715
+      smw2_shyguys_sheet_69: 1215229682
+      smw2_shyguys_sheet_7: -758041765
+      smw2_shyguys_sheet_70: -2109442195
+      smw2_shyguys_sheet_71: -726817405
+      smw2_shyguys_sheet_72: 579117790
+      smw2_shyguys_sheet_73: -303654678
+      smw2_shyguys_sheet_74: 1271805960
+      smw2_shyguys_sheet_75: -41033532
+      smw2_shyguys_sheet_76: -997040027
+      smw2_shyguys_sheet_77: -647618635
+      smw2_shyguys_sheet_78: -482496954
+      smw2_shyguys_sheet_79: -1101607043
+      smw2_shyguys_sheet_8: 631894292
+      smw2_shyguys_sheet_80: 1289056728
+      smw2_shyguys_sheet_81: -1497832477
+      smw2_shyguys_sheet_82: 409023440
+      smw2_shyguys_sheet_83: -1355687767
+      smw2_shyguys_sheet_84: 1933575473
+      smw2_shyguys_sheet_85: -1425578998
+      smw2_shyguys_sheet_86: -754615763
+      smw2_shyguys_sheet_87: -1734565919
+      smw2_shyguys_sheet_88: 966235762
+      smw2_shyguys_sheet_89: -579093972
+      smw2_shyguys_sheet_9: -756161268
+      smw2_shyguys_sheet_90: 1133348826
+      smw2_shyguys_sheet_91: -706278119
+      smw2_shyguys_sheet_92: -47697774
+      smw2_shyguys_sheet_93: -1430351349
+      smw2_shyguys_sheet_94: 2000187682
+      smw2_shyguys_sheet_95: 1759444267
+      smw2_shyguys_sheet_96: 1591266879
+      smw2_shyguys_sheet_97: -1646620116
+      smw2_shyguys_sheet_98: -523029022
+      smw2_shyguys_sheet_99: -874675627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

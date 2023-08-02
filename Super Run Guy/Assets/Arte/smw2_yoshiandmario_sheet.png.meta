@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: d969b19aa3dc3485a8df0b70cfbfd924
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1567d5cc2fe4846499486b4528bd15e7
+      internalID: -458817808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 456
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ea02af73b043d087a0ff158a79db0
+      internalID: 370575342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 455
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21284ac83cf1a4036b0e18ea10303e7f
+      internalID: -1648639930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 455
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9906d9d8a547bc9f1f1bb8ba509e0
+      internalID: -370284455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 456
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd324148d224682ab8e15766e5fd1a
+      internalID: -335310885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 449
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9db0b4b51cc54162993909117c891f2
+      internalID: -636324988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 399
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3aa6413cade4ed18d3e3ecda6191b0
+      internalID: 1949924054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 399
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3099a3ec6d74c60a2f805d1bb48e58
+      internalID: 176960087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 396
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3986d2bad8bf4bbebfa1c53b977dec6
+      internalID: 1136078024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 396
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dd3ed5c5ae049e7a5d85f8c87bfea9
+      internalID: -626572449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3fbe6318d942a1b14e8b68ee9993f
+      internalID: -1554697718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 400
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb1d5ab95014d95a9f664750a9e606
+      internalID: -1511641242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 352
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66fb35c50267480eb695150f52ef255
+      internalID: 897289088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 350
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73021fd3354694b76b791a2a3ed7c27a
+      internalID: 132944085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5dc0e7f83db4e3c8370c103f8af35c
+      internalID: -1051070016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 350
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553b0b4a10b940e8b6bf0a09183eac6
+      internalID: 1239517330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 350
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c639f79ac57c40ee9d3faad8919149e
+      internalID: -690398989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 349
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ec007fa5b748f49df3bf8a61990d0
+      internalID: 1361825471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 350
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafc38f6f50b649faad3ec9879ecaead
+      internalID: -181244423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc51d0454d2400abf349328b2cf887
+      internalID: 916321680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 297
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a79bab7028a49f1ac19f86c23946ac
+      internalID: 2105419371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 297
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec106c7e999641d1b00cba89e198665
+      internalID: -887161168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 299
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3491092227e43dcb56b1d5753fdc15
+      internalID: -375552025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70b7c748da92436d8304df22f38e8d4
+      internalID: -2009523875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 293
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a54633824194c388a731308308b87c
+      internalID: -732978036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 293
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67fdcfb929f34644a802c4ca9323f8a
+      internalID: 25514926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 296
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59341eec7494f472c8c34b1aff2b043d
+      internalID: -188628139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 296
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad8949921654f58be52fe1282feca8
+      internalID: -1052252950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 250
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169c3457948f47b1bc625b43755d290
+      internalID: 1402303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 250
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8871306b9043e8a1c2a79684f699b
+      internalID: -775178496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 249
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada6114ed5dd647a8850e67d8b3a8929
+      internalID: -275812169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 249
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc1c3890438437ca99aa3799c960df
+      internalID: 1877941855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 247
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846fec2a843f544bfa67f717f0f4f85c
+      internalID: -866508020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 247
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112be8a6938ee4d8593f743ef6c444b1
+      internalID: -2078953374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 247
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad35f95c42540429481d642847db43
+      internalID: 1072850427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 247
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7ad23465dc84f60a99d74e2191d364
+      internalID: 657517633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bac6d1a7eb12407997865c6670c9212
+      internalID: -581825392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 200
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914826d6d7f0b4b26aee8b6b0572d80c
+      internalID: -1524027722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 200
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aefb74d7260e43cd9483b5b31603e33
+      internalID: 1895895195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 200
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1666d137061340e1a240457f4222c62
+      internalID: -2108838582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d448aef1c74c9ea108ad159478e7c
+      internalID: -2117644711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 200
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774a41619dca4afbac7fe8226d030fa
+      internalID: 880643720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 196
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74d30a39dacf45b4a6dbedf1498799c
+      internalID: -1845048690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 199
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b3eb89d20044688abb4b8d73c4f329
+      internalID: 801857984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02781055126c24d788b65a12dac7d968
+      internalID: -669857812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 150
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc37c0f58230140d4beeb5a46cd7e306
+      internalID: 1794025443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0985d95e313fb48be98b6c1447862cd8
+      internalID: -1607202095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 151
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f171b28ee4c4731b22642ed4159171
+      internalID: 1309185066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a303103a972a440c28a549a4fa317d94
+      internalID: 355472262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 150
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0586fd746e56f4419ace9d8c7f8cdc0c
+      internalID: 1245090716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 147
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ced044700447359135171c00d6db8
+      internalID: -866261713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 149
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5565004e6b07403da0aac0c922bfac1
+      internalID: -1576020313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 100
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ec0ce50a814b4f8dbc31cd0bb616e
+      internalID: 583009930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 101
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9160ddd23361433f85f77cb453fed74
+      internalID: -993451026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 100
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faabfa80ab3f43f780e9eccd82b7303
+      internalID: -1950129954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 100
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5879ad5cb0a9e480c89d326cd0c07ee6
+      internalID: 1498748155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 101
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443ae6870ea2f4094bf0510c792c8860
+      internalID: -1189093145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 100
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15476ca7655b247a9b52fc70cd695696
+      internalID: 298304290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 101
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c004d2036f94b38acdb3fdcdd89903
+      internalID: -83956793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d5534091087411fbd20014b5ea238f
+      internalID: 435553641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9fd7608094a4ed592e8dff31ac8ddd
+      internalID: 1485647742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784ccda21fc345c189c23ed77701319
+      internalID: 397824648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 48
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b92bd5828b468ca197015cc501b0f
+      internalID: -1251561335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 49
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c16afc763f7b4be9bf91b6cf73c7cc3
+      internalID: 1869504228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447fc41aeb0394b9aa2de2eddc9ce59f
+      internalID: 1671860997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 48
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0921f54b9cb404795bb9bfe1e23e5705
+      internalID: -1057029346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 48
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87947a896aa5d4846b5d6043fee954d0
+      internalID: 453422143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 49
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787d20bf1e31492fa2c646f41e1edea
+      internalID: 1701413434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bf5a7f74a449709a26863a556fbe0
+      internalID: -1456387826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3db683d23c1c40918e397031da95588
+      internalID: 43445020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6975789023d1a41bf9d327012902cb84
+      internalID: -383029291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086bb8808ff684282adde9a47656285b
+      internalID: -874946283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f692220aa7c4f899be6ecbdeabad61
+      internalID: 601961431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smw2_yoshiandmario_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df4ba4aa0704790a57a60de135dcba
+      internalID: -2141495493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      smw2_yoshiandmario_sheet_0: -458817808
+      smw2_yoshiandmario_sheet_1: 370575342
+      smw2_yoshiandmario_sheet_10: -1554697718
+      smw2_yoshiandmario_sheet_11: -1511641242
+      smw2_yoshiandmario_sheet_12: 897289088
+      smw2_yoshiandmario_sheet_13: 132944085
+      smw2_yoshiandmario_sheet_14: -1051070016
+      smw2_yoshiandmario_sheet_15: 1239517330
+      smw2_yoshiandmario_sheet_16: -690398989
+      smw2_yoshiandmario_sheet_17: 1361825471
+      smw2_yoshiandmario_sheet_18: -181244423
+      smw2_yoshiandmario_sheet_19: 916321680
+      smw2_yoshiandmario_sheet_2: -1648639930
+      smw2_yoshiandmario_sheet_20: 2105419371
+      smw2_yoshiandmario_sheet_21: -887161168
+      smw2_yoshiandmario_sheet_22: -375552025
+      smw2_yoshiandmario_sheet_23: -2009523875
+      smw2_yoshiandmario_sheet_24: -732978036
+      smw2_yoshiandmario_sheet_25: 25514926
+      smw2_yoshiandmario_sheet_26: -188628139
+      smw2_yoshiandmario_sheet_27: -1052252950
+      smw2_yoshiandmario_sheet_28: 1402303020
+      smw2_yoshiandmario_sheet_29: -775178496
+      smw2_yoshiandmario_sheet_3: -370284455
+      smw2_yoshiandmario_sheet_30: -275812169
+      smw2_yoshiandmario_sheet_31: 1877941855
+      smw2_yoshiandmario_sheet_32: -866508020
+      smw2_yoshiandmario_sheet_33: -2078953374
+      smw2_yoshiandmario_sheet_34: 1072850427
+      smw2_yoshiandmario_sheet_35: 657517633
+      smw2_yoshiandmario_sheet_36: -581825392
+      smw2_yoshiandmario_sheet_37: -1524027722
+      smw2_yoshiandmario_sheet_38: 1895895195
+      smw2_yoshiandmario_sheet_39: -2108838582
+      smw2_yoshiandmario_sheet_4: -335310885
+      smw2_yoshiandmario_sheet_40: -2117644711
+      smw2_yoshiandmario_sheet_41: 880643720
+      smw2_yoshiandmario_sheet_42: -1845048690
+      smw2_yoshiandmario_sheet_43: 801857984
+      smw2_yoshiandmario_sheet_44: -669857812
+      smw2_yoshiandmario_sheet_45: 1794025443
+      smw2_yoshiandmario_sheet_46: -1607202095
+      smw2_yoshiandmario_sheet_47: 1309185066
+      smw2_yoshiandmario_sheet_48: 355472262
+      smw2_yoshiandmario_sheet_49: 1245090716
+      smw2_yoshiandmario_sheet_5: -636324988
+      smw2_yoshiandmario_sheet_50: -866261713
+      smw2_yoshiandmario_sheet_51: -1576020313
+      smw2_yoshiandmario_sheet_52: 583009930
+      smw2_yoshiandmario_sheet_53: -993451026
+      smw2_yoshiandmario_sheet_54: -1950129954
+      smw2_yoshiandmario_sheet_55: 1498748155
+      smw2_yoshiandmario_sheet_56: -1189093145
+      smw2_yoshiandmario_sheet_57: 298304290
+      smw2_yoshiandmario_sheet_58: -83956793
+      smw2_yoshiandmario_sheet_59: 435553641
+      smw2_yoshiandmario_sheet_6: 1949924054
+      smw2_yoshiandmario_sheet_60: 1485647742
+      smw2_yoshiandmario_sheet_61: 397824648
+      smw2_yoshiandmario_sheet_62: -1251561335
+      smw2_yoshiandmario_sheet_63: 1869504228
+      smw2_yoshiandmario_sheet_64: 1671860997
+      smw2_yoshiandmario_sheet_65: -1057029346
+      smw2_yoshiandmario_sheet_66: 453422143
+      smw2_yoshiandmario_sheet_67: 1701413434
+      smw2_yoshiandmario_sheet_68: -1456387826
+      smw2_yoshiandmario_sheet_69: 43445020
+      smw2_yoshiandmario_sheet_7: 176960087
+      smw2_yoshiandmario_sheet_70: -383029291
+      smw2_yoshiandmario_sheet_71: -874946283
+      smw2_yoshiandmario_sheet_72: 601961431
+      smw2_yoshiandmario_sheet_73: -2141495493
+      smw2_yoshiandmario_sheet_8: 1136078024
+      smw2_yoshiandmario_sheet_9: -626572449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
